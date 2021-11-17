@@ -4,6 +4,12 @@ date: 2021-11-17T18:35:23.124Z
 description: strony www za darmo mogą być dochodowe pod warunkiem tworzenia ich
   w sposób przemyślany tak by spełniły swój biznesowy cel
 ---
+![]()
+
+```html
+<h1> Tworzenie ma ogromne znaczenie </h1>
+```
+
 
 
 Gdy w wyszukiwarkę wpiszemy hasło: “***tworzenie stron internetowych”*** pojawia się kilkadziesiąt wyników typu: **“Stwórz swoją stronę www za darmo!”**, **“Strony internetowe bez kodowania”**  Bez wątpienia dzisiejsze technologie dają taką możliwość. Istnieje cała masa gotowych szablonów lub mało skomplikowanych “silników” takich jak **[WordPress](https://modernb2c.pl/strona-oparta-na-wordpress-zalety-wady-koszt-wdrozenia/)** czy **PrestaShop** przy pomocy, których bez specjalistycznej wiedzy programistycznej **uruchomisz stronę www**. Pytanie jakie sobie należy zadać to: **PO CO? Do czego ma ci służyć ta strona?** Jaki jest cel jej powstania?  Dość często serwisy www powstają w jakimś określonym celu. Bardzo prawdopodobne, że jest to cel biznesowy. **Pozyskiwanie nowych klientów** dla oferowanych usług. Sprzedaż produktów lub **promocja marki**.  Taka strona **za darmo** pojawiła się w sieci i wszystko co robi od tego momentu to że JEST. Nikt oprócz twórcy nie ma pojęcia o jej istnieniu. Niektórzy nieco bardziej świadomi twórcy takich stron podpinają ja gdzieś do swoich social mediów (**Facebook, YouTube, Instagram, LikedIn**) i to wszystko.  Pytanie czy taka strona za darmo kiedykolwiek spełni swój zakładany biznesowy cel?  No cóż śmiem wątpić. Nie dlatego, że powstała za darmo, ale dlatego, że stworzenie strony i umieszczenie jej na serwerze to początek. 
