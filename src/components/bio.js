@@ -37,8 +37,8 @@ const Bio = () => {
         layout="fixed"
         formats={["auto", "webp", "avif"]}
         src="../images/MB-MODERN.jpg"
-        width={80}
-        height={80}
+        width={125}
+        height={125}
         quality={100}
         alt="MB-MODERN"
       />
