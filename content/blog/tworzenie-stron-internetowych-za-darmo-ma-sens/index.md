@@ -18,11 +18,11 @@ Zgłoszona do wyszukiwarek. Trzeba zadbać o jej **site-map**. Zadbać o treść
 
 Czy to ma być chatka z mchu i paproci zaszyta w gąszczu czy dochodowy element twojego biznesu który wzbudzi zaufanie wśród klientów i ułatwi im dotarcie do twoich usług z których żyjesz. 
 
-## **Nie umiem uszyć sukienki.**
+## Nie umiem uszyć sukienki.
 
-Nie potrafimy piec tortów. Kiepsko wychodzi nam naprawianie samochodów.
+Nie potrafię piec tortów i kiepsko wychodzi mi naprawa pralki. 
 
- **\- Jestem ekspertem w dziedzinie Digital Marketingu** . 
+**\- Jestem ekspertem w dziedzinie Digital Marketingu** . 
 
 **\- Znam się na pisaniu kodu i tworzeniu stron www**. 
 
