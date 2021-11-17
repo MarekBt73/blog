@@ -14,11 +14,11 @@ Zgłoszona do wyszukiwarek. Trzeba zadbać o jej **site-map**. Zadbać o treść
 
 #### Gdy myślisz o stronie www dla swojej firmy zadaj sobie zasadnicze pytanie:
 
-## “Do czego ma służyć ta strona” 
+## “Do czego ma służyć ta strona”
 
 Czy to ma być chatka z mchu i paproci zaszyta w gąszczu czy dochodowy element twojego biznesu który wzbudzi zaufanie wśród klientów i ułatwi im dotarcie do twoich usług z których żyjesz. 
 
-## **Nie umiem uszyć sukienki.** 
+## **Nie umiem uszyć sukienki.**
 
 Nie potrafimy piec tortów. Kiepsko wychodzi nam naprawianie samochodów.
 
@@ -28,6 +28,8 @@ Nie potrafimy piec tortów. Kiepsko wychodzi nam naprawianie samochodów.
 
 **\- Potrafimy zaplanować, zaprojektować, wdrożyć i uruchomić dochodową kampanię reklamową w sieci dla Twojego Biznesu.** 
 
-**\- Znam się na tym wszystki naprawdę bardzo dobrze.**
+Znam się na tym co zostało wymienione powyżej i to bardzo dobrze i chętnie dzielę się  się swoim doświadczeniem wiedzą  w/w aspektach ze swoimi klientami zupełnie za darmo. 
 
-Chętnie podzielę się swoim doświadczeniem w/w aspektach. Jednak nie potrafimy zrobić tak  by dochodowa strona lub aplikacja internetowa  była za darmo. Zadzwoń i zapytaj o czym trzeba pomyśleć żeby to co planujemy jeżeli chodzi o obecność Twojego biznesu w sieci miało sens. Chętnie podzielimy się wiedzą. [tel. 602 225 491](tel://+48602225491)
+Jednak nie potrafię zrobić tak  by dochodowa strona lub aplikacja internetowa była za darmo. Nie musisz wydać ogromnych pieniędzy by reklamować swój biznes skutecznie a strona którą umieścisz w sieci spełniała swój cel biznesowy. Wymaga to jednak umiejętność i odpowiedniego nakładu pracy. Inwestycja w takie rozwiązanie zwróci się wielokrotnie. 
+
+Zadzwoń i zapytaj jak zacząć tworzenie strony www i o czym trzeba pomyśleć żeby to co planujemy jeżeli chodzi o obecność Twojego biznesu w sieci miało sens. Chętnie podzielę się wiedzą (za darmo!). [tel. 602 225 491](tel://+48602225491)
