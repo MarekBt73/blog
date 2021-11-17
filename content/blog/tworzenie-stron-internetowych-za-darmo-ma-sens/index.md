@@ -4,11 +4,13 @@ date: 2021-11-17T18:35:23.124Z
 description: strony www za darmo mogą być dochodowe pod warunkiem tworzenia ich
   w sposób przemyślany tak by spełniły swój biznesowy cel
 ---
-![]()
+![](za-darmo-tanio-zrob-sam.jpg)
 
 ```html
 <h1> Tworzenie ma ogromne znaczenie </h1>
 ```
+
+![]()
 
 
 
