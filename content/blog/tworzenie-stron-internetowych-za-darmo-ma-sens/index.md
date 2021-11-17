@@ -1,7 +1,7 @@
 ---
 title: Tworzenie stron internetowych za darmo ma sens?
 date: 2021-11-17T18:35:23.124Z
-description: strony www za darmo mogą być dochodowe pod warunkiem tworzenia ich
+description: Strony www za darmo mogą być dochodowe pod warunkiem tworzenia ich
   w sposób przemyślany tak by spełniły swój biznesowy cel
 ---
 ![amatorska strona internetowa jak chatka z mchu i paproci w środku lsu](za-darmo-tanio-zrob-sam.jpg "Amatorka strona internetowa")
