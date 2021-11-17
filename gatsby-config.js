@@ -10,6 +10,7 @@ module.exports = {
     social: {
       twitter: ``,
       facebook:``,
+      linkedin: `marek-becht`,
     },
   },
   plugins: [

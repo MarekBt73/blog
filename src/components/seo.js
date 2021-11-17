@@ -76,9 +76,9 @@ const Seo = ({ description, lang, meta, title }) => {
 }
 
 Seo.defaultProps = {
-  lang: `en`,
+  lang: `pl`,
   meta: [],
-  description: ``,
+  description: `blog ModerB2C digital marketing reklama ADS `,
 }
 
 Seo.propTypes = {

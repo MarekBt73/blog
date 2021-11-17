@@ -44,9 +44,11 @@ const Bio = () => {
       />
       {author?.name && (
         <p>
-          Written by <strong>{author.name}</strong> {author?.summary || null}
+          Blog prowadzony przez  <strong>{author.name}</strong> {author?.summary || null}
           {` `}
-          <a href={`https://twitter.com/${social?.twitter || ``}`}>
+          {/* <a href={`https://twitter.com/${social?.twitter || ``}`}> */}
+         
+          <a href={` https://www.linkedin.com/in/${social?.linkedin || ``}`}>
             Zpraszam na LikedIn
           </a>
         </p>

@@ -39,7 +39,7 @@ const UsingTypescript: React.FC<PageProps<DataProps>> = ({
       </a>
       .
     </p>
-    <Link to="/">Go back to the homepage</Link>
+    <Link to="/">Home</Link>
   </Layout>
 )
 
