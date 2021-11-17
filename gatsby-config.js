@@ -9,6 +9,7 @@ module.exports = {
     siteUrl: `https://gatsby.modernb2c.pl/`,
     social: {
       twitter: ``,
+      facebook:``,
     },
   },
   plugins: [
@@ -105,7 +106,7 @@ module.exports = {
               }
             `,
             output: "/rss.xml",
-            title: "Gatsby Starter Blog RSS Feed",
+            title: "Blog o Digital Marketingu - ModernB2C.PL",
           },
         ],
       },
@@ -113,8 +114,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `ModernB2C-Blog`,
+        short_name: `MB2C`,
         start_url: `/`,
         background_color: `#ffffff`,
         // This will impact how browsers show your PWA/website
