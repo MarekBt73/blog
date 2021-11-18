@@ -8,6 +8,8 @@
 import * as React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
+import { StyleImgDiv, StyleHedInfo} from "./bio.styles"
+
 
 const Bio = () => {
   const data = useStaticQuery(graphql`
@@ -32,27 +34,36 @@ const Bio = () => {
 
   return (
     <div className="bio">
+      <StyleImgDiv>
       <StaticImage
         className="bio-avatar"
         layout="fixed"
         formats={["auto", "webp", "avif"]}
         src="../images/MB-MODERN.jpg"
-        width={125}
-        height={125}
-        quality={100}
-        alt="MB-MODERN"
-      />
-      {author?.name && (
-        <p>
-          Blog prowadzony przez  <strong>{author.name}</strong> {author?.summary || null}
-          {` `}
+        alt="MB-MODERN" 
+        width={100}
+        
+        
+        />
+        
+      </StyleImgDiv>
+        <StyleHedInfo>
+           {author?.name && (
+           
+           <div>
+            <div className='span-top-page'>
+             <strong>{author.name}</strong> {/* {author?.  summary || null} */}
+            </div>
           {/* <a href={`https://twitter.com/${social?.twitter || ``}`}> */}
-         
+         <div className='span-top-page-two' >
           <a href={` https://www.linkedin.com/in/${social?.linkedin || ``}`}>
-            Zpraszam na LikedIn
+            Poznajmy się na LikedIn
           </a>
-        </p>
-      )}
+          </div>
+          </div>
+         
+          )}
+      </StyleHedInfo>
     </div>
   )
 }

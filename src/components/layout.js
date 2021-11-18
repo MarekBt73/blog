@@ -1,5 +1,6 @@
 import * as React from "react"
 import { Link } from "gatsby"
+import {StyleWraper} from './layout.styles.js'
 
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
@@ -8,15 +9,20 @@ const Layout = ({ location, title, children }) => {
 
   if (isRootPath) {
     header = (
+      <StyleWraper>
       <h1 className="main-heading">
         <Link to="/">{title}</Link>
       </h1>
+      </StyleWraper>
     )
   } else {
     header = (
+
+      <StyleWraper>
       <Link className="header-link-home" to="/">
         {title}
       </Link>
+     </StyleWraper>
     )
   }
 
